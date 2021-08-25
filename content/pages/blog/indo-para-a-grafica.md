@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Indo para a gráfica
 subtitle: lorem-ipsum
 date: '2021-08-25'
 excerpt: lorem-ipsum
