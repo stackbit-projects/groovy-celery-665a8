@@ -13,9 +13,6 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
+Esta semana, finalmente com o projeto todo pronto, capa feita, ISBN registrado e bla bla bla, a livro está a caminho da gráfica e deve estar pronto na semana que vem ou na outra.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+Lembra que você pode fazer o pre order, com desconto de 10% [aqui](http://example.com/pre-order)
