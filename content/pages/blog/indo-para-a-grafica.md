@@ -1,6 +1,6 @@
 ---
 title: Indo para a gráfica
-subtitle: lorem-ipsum
+subtitle: Já era hora
 date: '2021-08-25'
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
