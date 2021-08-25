@@ -31,6 +31,11 @@ export default class Post extends React.Component {
                                 </div>
                             )}
                             {markdownContent && <div className="post-content">{markdownify(markdownContent)}</div>}
+                            {image && (
+                                <div className="post-image">
+                                    <img src={withPrefix(image)} alt={imageAlt} />
+                                </div>
+                            )}
                             <BlogPostFooter post={page} dateType={'long'} data={data} />
                         </article>
                     </div>
