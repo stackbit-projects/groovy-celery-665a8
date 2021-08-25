@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/Capa-Proposta-01-b.jpg
+    image: /images/book_hero.png
     image_alt: App preview
     title: Memórias Entrelaçadas
     content: |
