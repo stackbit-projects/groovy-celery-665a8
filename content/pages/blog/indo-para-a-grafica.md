@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+image: /images/Capa-Proposta-01.jpg
 ---
 Esta semana, finalmente com o projeto todo pronto, capa feita, ISBN registrado e bla bla bla, a livro está a caminho da gráfica e deve estar pronto na semana que vem ou na outra.
 
