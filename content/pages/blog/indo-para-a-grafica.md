@@ -18,3 +18,5 @@ thumb_image: /images/Capa-Proposta-01-8aee81dc.jpg
 Esta semana, finalmente com o projeto todo pronto, capa feita, ISBN registrado e bla bla bla, a livro está a caminho da gráfica e deve estar pronto na semana que vem ou na outra.
 
 Lembra que você pode fazer o pre order, com desconto de 10% [aqui](http://example.com/pre-order)
+
+E fiquem de olho pra quando for a data do lancamento.
