@@ -2,7 +2,7 @@
 title: Indo para a gráfica
 subtitle: Já era hora
 date: '2021-08-25'
-excerpt: 'Agora foi, '
+excerpt: Agora foi!
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 seo:
