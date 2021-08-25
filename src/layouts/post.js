@@ -25,12 +25,12 @@ export default class Post extends React.Component {
                                 <h1 className="post-title">{title}</h1>
                                 {subtitle && <div className="post-subtitle">{htmlToReact(subtitle)}</div>}
                             </header>
-                            {markdownContent && <div className="post-content">{markdownify(markdownContent)}</div>}
                             {image && (
                                 <div className="post-image">
                                     <img src={withPrefix(image)} alt={imageAlt} />
                                 </div>
                             )}
+                            {markdownContent && <div className="post-content">{markdownify(markdownContent)}</div>}
                             <BlogPostFooter post={page} dateType={'long'} data={data} />
                         </article>
                     </div>
