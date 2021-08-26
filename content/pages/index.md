@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/book_hero.png
+    image: /images/book-mock-05b9ed84.png
     image_alt: App preview
     title: Memórias Entrelaçadas
     content: |
@@ -100,7 +100,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: Latest Posts
+    title: Novidades
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
