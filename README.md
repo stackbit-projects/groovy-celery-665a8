@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9f02b51d-0cfc-4898-8925-a672beaacb93/deploy-status)](https://app.netlify.com/sites/groovy-celery-665a8/deploys)
+
 # ✨ Azimuth Nextjs Theme ✨
 
 This is Stackbit's "Azimuth" theme built with [Next.js](https://nextjs.org/) and
