@@ -41,11 +41,15 @@ sections:
           papel da dinâmica familiar (em particular as relações entre mães e
           filhas) durante o recente aumento de jovens mulheres da classe
           trabalhadora frequentando universidade no Brasil, ao invés de seguirem
-          os passos de suas mães empregadas domésticas. O estudo é baseado em
+          os passos de suas mães empregadas domésticas.
+          
+          O estudo é baseado em
           entrevistas originais e profundas com cinco pares de mães e filhas,
           que a autora se utiliza para retratar as aspirações dessas mulheres e
           a fragilidade dessas experiências na tentativa de mehorar suas
-          condições e de seus filhos. A autora destaca o papel da memória
+          condições e de seus filhos.
+          
+          A autora destaca o papel da memória
           intergeracional como estímulo para mobilidade social e introduz o
           conceito de ‘memórias entrelaçadas’ para explicar as aspirações das
           filhas como resposta para melhorar as condições de vida de suas mães,
