@@ -67,7 +67,9 @@ sections:
     title: Novidades
 seo:
   title: Memorias Entrelaçadas — Do trauma ao empoderamento
-  description: The preview of the Azimuth theme
+  description: >-
+    Memorias Entrelaçadas: Do trauma ao empoderamento. Livro por Anna Maria Del
+    Fiorentino
   extra:
     - name: 'og:type'
       value: website
