@@ -31,8 +31,7 @@
                 "type": "footer_text",
                 "image": "/images/avatar2_dark.png",
                 "image_url": "/",
-                "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "image_alt": "Footer logo"
             },
             {
                 "type": "footer_nav",
