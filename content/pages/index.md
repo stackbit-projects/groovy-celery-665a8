@@ -7,7 +7,9 @@ sections:
     image_alt: App preview
     title: Memórias Entrelaçadas
     content: |
-      Baseado na dissertação de mestrado da autora, mestra pela Universidade de Cambridge (Reino Unido), Memórias entrelaçadas – do trauma ao empoderamento conta histórias de vida de dez mulheres, mães empregadas domésticas e serventes escolares e de suas filhas, a primeira geração em suas famílias a obter um diploma universitário no Brasil. O livro investiga o papel das mães na jornada de suas filhas rumo a universidade e introduz o conceito de memórias entrelaçadas para mostrar como o mecanismo de transmissão das memórias entre mães e filhas levou ao suporte mútuo entre essas mulheres, transformando trauma em empoderamento.
+      Baseado na dissertação de mestrado da autora, mestra pela Universidade de Cambridge (Reino Unido), Memórias entrelaçadas – do trauma ao empoderamento conta histórias de vida de dez mulheres, mães empregadas domésticas e serventes escolares e de suas filhas, a primeira geração em suas famílias a obter um diploma universitário no Brasil.
+      
+      O livro investiga o papel das mães na jornada de suas filhas rumo a universidade e introduz o conceito de memórias entrelaçadas para mostrar como o mecanismo de transmissão das memórias entre mães e filhas levou ao suporte mútuo entre essas mulheres, transformando trauma em empoderamento.
     actions:
       - label: Learn More
         url: /features
