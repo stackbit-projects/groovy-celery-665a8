@@ -14,23 +14,13 @@
                 "style": "link"
             },
             {
-                "label": "Features",
-                "url": "/features",
+                "label": "Novidades",
+                "url": "/blog",
                 "style": "link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "label": "Sign Up",
-                "url": "/signup",
+                "label": "Comprar",
+                "url": "http://www.amazon.com.br",
                 "style": "primary"
             }
         ]
