@@ -4,8 +4,8 @@
     "base_font": "nunito-sans",
     "palette": "blue",
     "header": {
-        "logo_img": "/images/Avatar.jpg",
-        "logo_img_alt": "Logo",
+        "logo_img": "/images/logo.png",
+        "logo_img_alt": "Memorias Entrelaçadas",
         "has_nav": true,
         "nav_links": [
             {
