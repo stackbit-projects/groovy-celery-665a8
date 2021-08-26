@@ -2,7 +2,9 @@
 title: Blog
 seo:
   title: Novidades | Memorias Entrelaçadas — Do trauma ao empoderamento
-  description: This is the blog page
+  description: >-
+    Blog sobre Memorias Entrelaçadas: Do trauma ao empoderamento — Livro por
+    Anna Maria Del Fiorentino
   extra:
     - name: 'og:type'
       value: website
