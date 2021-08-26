@@ -1,7 +1,7 @@
 ---
 title: Blog
 seo:
-  title: Blog
+  title: Novidades | Memorias Entrelaçadas — Do trauma ao empoderamento
   description: This is the blog page
   extra:
     - name: 'og:type'
