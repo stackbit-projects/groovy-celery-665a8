@@ -1,6 +1,7 @@
 ---
 title: Indo para a gráfica
 subtitle: Já era hora
+author: content/data/authors/anna-del-fiorentino.yaml
 date: '2021-08-25'
 excerpt: And here is the exerpt for the article
 image_alt: book cover

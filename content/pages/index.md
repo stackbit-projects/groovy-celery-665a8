@@ -12,83 +12,28 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-  - section_id: features
-    type: section_features
-    background: gray
-    title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    features:
-      - title: The Best Feature of Your Services
-        image: images/feature1.png
-        image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-      - title: Awesome Feature of Your Services
-        image: images/feature2.png
-        image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-      - title: Cool Feature of Your Services
-        image: images/feature3.png
-        image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
   - section_id: reviews
     type: section_reviews
     background: white
-    title: Testimonials
+    title: O que dizem
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+      O que os leitores estão dizendo sobre o livro
     reviews:
-      - author: Eric Widget
-        avatar: images/review1.jpg
+      - author: Relatório da Comissão Examinadora Independente, Centro de Estudos da América Latina, Universidade de Cambridge
+        # avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Parsley Montana
-        avatar: images/review2.jpg
+          Dissertação cativante e elegantemente escrita, que busca destacar o papel da dinâmica familiar (em particular as relações entre mães e filhas) durante o recente aumento de jovens mulheres da classe trabalhadora frequentando universidade no Brasil, ao invés de seguirem os passos de suas mães empregadas domésticas. O estudo é baseado em entrevistas originais e profundas com cinco pares de mães e filhas, que a autora se utiliza para retratar as aspirações dessas mulheres e a fragilidade dessas experiências na tentativa de mehorar suas condições e de seus filhos. A autora destaca o papel da memória intergeracional como estímulo para mobilidade social e introduz o conceito de ‘memórias entrelaçadas’ para explicar as aspirações das filhas como resposta para melhorar as condições de vida de suas mães, uma vez que elas atingem um certo grau de mobilidade social.
+      - author: Relatório da Comissão Examinadora Independente, Centro de Estudos da América Latina, Universidade de Cambridge
+        # avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Jonquil Von Haggerston
-        avatar: images/review3.jpg
+          Os capítulos sobre trauma e memória são escritos com grande empatia e sensibilidade, e constituem uma das maiores contribuições da dissertação.
+      - author: Juliana, filha de faxineira no Brasil e mestre pela Universidade de Cambridge
+        # avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Maravilhoso, eu adorei! Teve momentos que eu queria chorar porque pra mim é pessoal. Teve uma mãe que disse que perdeu os dentes muito cedo... isso aconteceu com a minha mãe. Pra mim, tocou num lugar diferente, estou bem emotiva.
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
