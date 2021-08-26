@@ -19,6 +19,7 @@ import SectionHero from './SectionHero';
 import SectionPosts from './SectionPosts';
 import SectionPricing from './SectionPricing';
 import SectionReviews from './SectionReviews';
+import SectionAuthor from './SectionAuthor';
 
 export {
     Action,
@@ -41,7 +42,8 @@ export {
     SectionHero,
     SectionPosts,
     SectionPricing,
-    SectionReviews
+    SectionReviews,
+    SectionAuthor
 };
 
 export default {
@@ -65,5 +67,6 @@ export default {
     SectionHero,
     SectionPosts,
     SectionPricing,
-    SectionReviews
+    SectionReviews,
+    SectionAuthor
 };

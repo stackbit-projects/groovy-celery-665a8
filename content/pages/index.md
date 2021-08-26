@@ -7,7 +7,21 @@ sections:
     image_alt: App preview
     title: Memórias Entrelaçadas
     content: |
-      Do trauma ao empoderamento.
+      Baseado na dissertação de mestrado da autora, mestra pela Universidade de Cambridge (Reino Unido), Memórias entrelaçadas – do trauma ao empoderamento conta histórias de vida de dez mulheres, mães empregadas domésticas e serventes escolares e de suas filhas, a primeira geração em suas famílias a obter um diploma universitário no Brasil. O livro investiga o papel das mães na jornada de suas filhas rumo a universidade e introduz o conceito de memórias entrelaçadas para mostrar como o mecanismo de transmissão das memórias entre mães e filhas levou ao suporte mútuo entre essas mulheres, transformando trauma em empoderamento.
+    actions:
+      - label: Learn More
+        url: /features
+        style: primary
+  - section_id: author
+    type: section_author
+    author_name: Anna Maria Del Fiorentino
+    avatar: /images/anna.jpg
+    avatar_alt: Anna Maria Del Fiorentino
+    title: A Autora
+    content: |
+      Anna Maria Del Fiorentino vive no Reino Unido desde 2008 e é mãe de duas crianças. Seus temas de interesse são voltados a maternidade e dignidade na infância e adolescência, educação, direitos humanos, feminismo inclusivo, justiça social, lutas da comunidade LGBTI+ e anti-racismo.
+
+      Nascida em Brasília e criada em Campinas, se formou em Ciências Econômicas na Universidade Estadual de Campinas (UNICAMP), trabalhou no Centro de Pesquisa e Desenvolvimento da Ericsson em Indaiatuba e posteriormente no Banco do Brasil em Londres, onde também fez trabalhos voluntários de teatro e cinema no Old Vic Tunnels. Anna fez uma pausa em sua carreira para se dedicar a criação dos filhos e, recentemente, retomou sua trajetória acadêmica quando recebeu uma oferta de vaga no programa de mestrado no Centro de Estudos da América Latina da Universidade de Cambridge (Reino Unido).
     actions:
       - label: Learn More
         url: /features

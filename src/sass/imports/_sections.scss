@@ -328,6 +328,53 @@
   }
 }
 
+#author {
+  font-size: 0.88889em;
+  line-height: 1.66667;
+
+  .card {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding: 1.33333em;
+    align-items: center;
+  }
+
+  .author-avatar {
+    border-radius: 10px;
+    margin: 0 0 0.9375em 0;
+    height: 320px;
+    width: 240px;
+  }
+  
+  .author-name {
+    font-size: 1em;
+    text-align: center;
+  }
+
+}
+@media only screen and (min-width: 601px) {
+  #author {
+    .card {
+      -ms-flex-direction: row;
+      flex-direction: row;
+      align-items: initial;
+    }
+
+    .author-avatar {
+      margin-right: 0.9375em;
+      height: 240px;
+      width: 180px;
+    }  
+
+    .author-name {
+      text-align: left;
+    }
+  }
+}
+
+
 .review {
   border: 0;
   color: $gray-600;
