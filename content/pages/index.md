@@ -11,8 +11,8 @@ sections:
       
       O livro investiga o papel das mães na jornada de suas filhas rumo a universidade e introduz o conceito de memórias entrelaçadas para mostrar como o mecanismo de transmissão das memórias entre mães e filhas levou ao suporte mútuo entre essas mulheres, transformando trauma em empoderamento.
     actions:
-      - label: Learn More
-        url: /features
+      - label: Leia um trecho
+        url: /livro
         style: primary
   - section_id: author
     type: section_author
@@ -24,10 +24,6 @@ sections:
       Anna Maria Del Fiorentino vive no Reino Unido desde 2008 e é mãe de duas crianças. Seus temas de interesse são voltados a maternidade e dignidade na infância e adolescência, educação, direitos humanos, feminismo inclusivo, justiça social, lutas da comunidade LGBTI+ e anti-racismo.
 
       Nascida em Brasília e criada em Campinas, se formou em Ciências Econômicas na Universidade Estadual de Campinas (UNICAMP), trabalhou no Centro de Pesquisa e Desenvolvimento da Ericsson em Indaiatuba e posteriormente no Banco do Brasil em Londres, onde também fez trabalhos voluntários de teatro e cinema no Old Vic Tunnels. Anna fez uma pausa em sua carreira para se dedicar a criação dos filhos e, recentemente, retomou sua trajetória acadêmica quando recebeu uma oferta de vaga no programa de mestrado no Centro de Estudos da América Latina da Universidade de Cambridge (Reino Unido).
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
   - section_id: reviews
     type: section_reviews
     background: white
@@ -95,10 +91,10 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: Memorias Entrelaçadas, Do trauma ao empoderamento
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: Memorias Entrelaçadas, Do trauma ao empoderamento. Livro por Anna Maria Del Fiorentino
       keyName: property
     - name: 'og:image'
       value: images/hero.png
@@ -107,9 +103,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: Memorias Entrelaçadas, Do trauma ao empoderamento
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: Memorias Entrelaçadas, Do trauma ao empoderamento. Livro por Anna Maria Del Fiorentino
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
