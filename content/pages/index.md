@@ -12,7 +12,7 @@ sections:
       
       O livro investiga o papel das mães na jornada de suas filhas rumo a universidade e introduz o conceito de memórias entrelaçadas para mostrar como o mecanismo de transmissão das memórias entre mães e filhas levou ao suporte mútuo entre essas mulheres, transformando trauma em empoderamento.
     actions:
-      - label: Leia um trecho
+      - label: Leia um trecho do livro
         url: /livro
         style: primary
   - section_id: author

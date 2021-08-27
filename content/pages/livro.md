@@ -37,7 +37,7 @@ layout: page
 6. Conhecimento Empoderado Pelo Amor
 7. Referências Bibliográficas
 
-## Leia um trecho
+## Leia um trecho do livro
 
 ### 3. A Força Invisível As Mães
 
