@@ -11,6 +11,7 @@ export default class SectionHero extends React.Component {
         const image = _.get(section, 'image');
         const imageAlt = _.get(section, 'image_alt');
         const title = _.get(section, 'title');
+        const subtitle = _.get(section, 'subtitle');
         const content = _.get(section, 'content');
         const actions = _.get(section, 'actions');
 
@@ -25,6 +26,7 @@ export default class SectionHero extends React.Component {
                         )}
                         <div className="cell block-content">
                             {title && <h2 className="block-title underline">{title}</h2>}
+                            {subtitle && <h3 className="block-subtitle underline">{subtitle}</h3>}
                             {content && content.split('\n').map(c=><div className="block-copy">{markdownify(c)}</div>)}
                             {actions && (
                                 <div className="block-buttons">
