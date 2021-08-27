@@ -12,8 +12,8 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-thumb_image: /images/clas.jpg
-image: /images/clas.jpg
+thumb_image: /images/blog/mestra/clas.jpg
+image: /images/blog/mestra/clas.jpg
 ---
 
 Depois de um turbulento ano de pandemia, recebi hoje o Relatório da Comissão Examinadora Independente do Centro de Estudos da América Latina da Universidade de Cambridge com a avaliação da minha dissertação de mestrado.
