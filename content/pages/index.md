@@ -82,19 +82,19 @@ sections:
     background: gray
     title: Novidades
 seo:
-  title: Memorias Entrelaçadas — Do trauma ao empoderamento
+  title: Memórias Entrelaçadas — Do trauma ao empoderamento
   description: >-
-    Memorias Entrelaçadas: Do trauma ao empoderamento. Livro por Anna Maria Del
+    Memórias Entrelaçadas: Do trauma ao empoderamento. Livro por Anna Maria Del
     Fiorentino
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Memorias Entrelaçadas, Do trauma ao empoderamento
+      value: Memórias Entrelaçadas, Do trauma ao empoderamento
       keyName: property
     - name: 'og:description'
-      value: Memorias Entrelaçadas, Do trauma ao empoderamento. Livro por Anna Maria Del Fiorentino
+      value: Memórias Entrelaçadas, Do trauma ao empoderamento. Livro por Anna Maria Del Fiorentino
       keyName: property
     - name: 'og:image'
       value: images/hero.png
@@ -103,9 +103,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Memorias Entrelaçadas, Do trauma ao empoderamento
+      value: Memórias Entrelaçadas, Do trauma ao empoderamento
     - name: 'twitter:description'
-      value: Memorias Entrelaçadas, Do trauma ao empoderamento. Livro por Anna Maria Del Fiorentino
+      value: Memórias Entrelaçadas, Do trauma ao empoderamento. Livro por Anna Maria Del Fiorentino
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true

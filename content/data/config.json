@@ -1,11 +1,11 @@
 {
-    "title": "Memorias Entrelaçadas, Do trauma ao empoderamento. Livro por Anna Maria Del Fiorentino",
+    "title": "Memórias Entrelaçadas, Do trauma ao empoderamento. Livro por Anna Maria Del Fiorentino",
     "path_prefix": "/",
     "base_font": "nunito-sans",
     "palette": "blue",
     "header": {
         "logo_img": "/images/logo.svg",
-        "logo_img_alt": "Memorias Entrelaçadas",
+        "logo_img_alt": "Memórias Entrelaçadas",
         "has_nav": true,
         "nav_links": [
             {
