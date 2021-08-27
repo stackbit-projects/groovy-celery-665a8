@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/book-mock-05b9ed84.png
+    image: images/Capa-Proposta-01-b.jpg
     image_alt: App preview
     title: Memórias Entrelaçadas
     content: |
@@ -97,7 +97,7 @@ seo:
       value: Memórias Entrelaçadas, Do trauma ao empoderamento. Livro por Anna Maria Del Fiorentino
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: images/Capa-Proposta-01-b.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -107,7 +107,7 @@ seo:
     - name: 'twitter:description'
       value: Memórias Entrelaçadas, Do trauma ao empoderamento. Livro por Anna Maria Del Fiorentino
     - name: 'twitter:image'
-      value: images/hero.png
+      value: images/Capa-Proposta-01-b.jpg
       relativeUrl: true
 layout: landing
 ---
