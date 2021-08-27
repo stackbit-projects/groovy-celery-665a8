@@ -281,6 +281,7 @@ models:
             - section_faq
             - section_features
             - section_hero
+            - section_author
             - section_posts
             - section_pricing
             - section_reviews
@@ -630,6 +631,31 @@ models:
           type: model
           models:
             - action
+  section_author:
+    type: object
+    label: Author Section
+    extends:
+      - section
+    fields:
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The subtitle of the section
+      - type: enum
+        name: background
+        label: Background
+        description: The background of the section
+        options:
+          - gray
+          - white
+        default: gray
+      - type: list
+        name: reviews
+        label: Reviews
+        items:
+          type: model
+          models:
+            - review_item
   section_reviews:
     type: object
     label: Reviews Section

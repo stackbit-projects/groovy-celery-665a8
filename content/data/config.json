@@ -4,7 +4,7 @@
     "base_font": "nunito-sans",
     "palette": "blue",
     "header": {
-        "logo_img": "/images/logo.png",
+        "logo_img": "/images/logo.svg",
         "logo_img_alt": "Memorias Entrelaçadas",
         "has_nav": true,
         "nav_links": [
@@ -29,10 +29,9 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo-alt.svg",
+                "image": "/images/avatar2_dark.png",
                 "image_url": "/",
-                "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "image_alt": "Footer logo"
             },
             {
                 "type": "footer_nav",
@@ -108,7 +107,7 @@
                 "submit_label": "Subscribe"
             }
         ],
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Terms of Service",
@@ -121,7 +120,7 @@
                 "style": "link"
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>."
+        "content": "&copy; Anna Maria Del Fiorentino. Todos os direitos reservados."
     },
     "domain": "https://groovy-celery-665a8.netlify.app"
 }

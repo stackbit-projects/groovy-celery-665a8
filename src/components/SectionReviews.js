@@ -13,7 +13,7 @@ export default class SectionReviews extends React.Component {
         return (
             <blockquote key={index} className="cell review">
                 <div className="card">
-                    <p className="review-text">{htmlToReact(content)}</p>
+                    {content.split('\n').map(c => <p className="review-text">{htmlToReact(c)}</p>)}
                     <footer className="review-footer">
                         {avatar && <img className="review-avatar" src={withPrefix(avatar)} alt={avatarAlt} />}
                         {author && <cite className="review-author">{author}</cite>}
