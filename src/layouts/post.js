@@ -28,6 +28,7 @@ export default class Post extends React.Component {
                             {image && (
                                 <div className="post-image">
                                     <img src={withPrefix(image)} alt={imageAlt} />
+                                    {imageAlt && <p className="image-caption">{imageAlt}</p>}
                                 </div>
                             )}
                             {markdownContent && <div className="post-content">{markdownify(markdownContent)}</div>}
