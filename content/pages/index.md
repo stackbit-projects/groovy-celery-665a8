@@ -91,10 +91,10 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: Memorias Entrelaçadas, Do trauma ao empoderamento
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: Memorias Entrelaçadas, Do trauma ao empoderamento. Livro por Anna Maria Del Fiorentino
       keyName: property
     - name: 'og:image'
       value: images/hero.png
@@ -103,9 +103,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: Memorias Entrelaçadas, Do trauma ao empoderamento
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: Memorias Entrelaçadas, Do trauma ao empoderamento. Livro por Anna Maria Del Fiorentino
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
