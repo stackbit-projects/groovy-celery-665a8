@@ -4,39 +4,31 @@ sections:
   - section_id: contact
     type: section_contact
     background: gray
-    title: Contact
+    title: Contato
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+      Mande sua mensagem para a autora.
     form_id: contactForm
     form_fields:
       - input_type: text
         name: name
-        label: Name
+        label: Nome
         is_required: true
       - input_type: email
         name: email
         label: Email
         is_required: true
-      - input_type: select
+      - input_type: text
         name: subject
-        label: Subject
-        default_value: Please select
-        options:
-          - Error on the site
-          - Sponsorship
-          - Other
+        label: Assunto
       - input_type: textarea
         name: message
-        label: Message
+        label: Mensagem
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+          Eu entendo que o site vai armazenar a minha informação para poder ser contactado
         is_required: true
-    submit_label: Send Message
+    submit_label: Mandar Mensagem
 seo:
   title: Contact
   description: This is the contact page
