@@ -19,6 +19,11 @@
                 "style": "link"
             },
             {
+                "label": "Contato",
+                "url": "/contato",
+                "style": "link"
+            },
+            {
                 "label": "Comprar",
                 "url": "http://www.amazon.com.br",
                 "style": "primary"
