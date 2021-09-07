@@ -81,8 +81,8 @@ sections:
           sensibilidade, e constituem uma das maiores contribuições da
           dissertação.
       - author: >-
-          Juliana, filha de faxineira no Brasil e mestre pela Universidade de
-          Cambridge
+          Juliana Spadotto, filha de faxineira no Brasil e mestre em Educação
+          pela Universidade de Cambridge
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           Maravilhoso, eu adorei! Teve momentos que eu queria chorar porque pra
