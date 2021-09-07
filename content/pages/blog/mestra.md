@@ -1,5 +1,5 @@
 ---
-title: Mestre!
+title: Mestrado conclui!
 author: content/data/authors/anna-del-fiorentino.yaml
 date: '2021-07-05'
 excerpt: >-
