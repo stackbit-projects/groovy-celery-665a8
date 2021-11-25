@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/book-mock.png
+    image: images/capa.png
     image_alt: App preview
     title: Memórias Entrelaçadas
     subtitle: Do trauma ao empoderamento
@@ -19,10 +19,10 @@ sections:
       universidade e introduz o conceito de memórias entrelaçadas para mostrar
       como o mecanismo de transmissão das memórias entre mães e filhas levou ao
       suporte mútuo entre essas mulheres, transformando trauma em empoderamento.
-    actions:
-      - label: Leia um trecho
-        url: /livro
-        style: primary
+    # actions:
+    #   - label: Leia um trecho do livro
+    #     url: /livro
+    #     style: primary
   - section_id: author
     type: section_author
     author_name: Anna Maria Del Fiorentino
@@ -89,14 +89,6 @@ sections:
           mim é pessoal. Teve uma mãe que disse que perdeu os dentes muito
           cedo... isso aconteceu com a minha mãe. Pra mim, tocou num lugar
           diferente, estou bem emotiva.
-  - section_id: call-to-action
-    type: section_cta
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: /signup
-        style: primary
   - section_id: recent-posts
     type: section_posts
     background: gray
