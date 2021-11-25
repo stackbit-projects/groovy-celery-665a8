@@ -10,19 +10,15 @@ sections:
     content: >
       Baseado na dissertação de mestrado da autora, mestre pela Universidade de
       Cambridge (Reino Unido), *Memórias entrelaçadas – do trauma ao
-      empoderamento* conta histórias de vida de dez mulheres, mães empregadas
-      domésticas e serventes escolares e de suas filhas, a primeira geração em
-      suas famílias a obter um diploma universitário no Brasil.
+      empoderamento* conta histórias de vida de mães empregadas domésticas e
+      serventes escolares e de suas filhas, a primeira geração em suas famílias
+      a obter um diploma universitário no Brasil.
 
 
-      O livro investiga o papel das mães na jornada de suas filhas rumo a
-      universidade e introduz o conceito de memórias entrelaçadas para mostrar
+      O livro investiga o papel das mães na jornada de suas filhas rumo à
+      universidade e introduz o conceito de *memórias entrelaçadas* para mostrar
       como o mecanismo de transmissão das memórias entre mães e filhas levou ao
       suporte mútuo entre essas mulheres, transformando trauma em empoderamento.
-    # actions:
-    #   - label: Leia um trecho do livro
-    #     url: /livro
-    #     style: primary
   - section_id: author
     type: section_author
     author_name: Anna Maria Del Fiorentino
