@@ -69,8 +69,8 @@ sections:
           condições de vida de suas mães, uma vez que elas atingem um certo grau
           de mobilidade social.
       - author: >-
-          Relatório da Comissão Examinadora Independente, Centro de Estudos da
-          América Latina, Universidade de Cambridge
+          Relatório da Comissão Examinadora Independente, Centro de Estudos
+          Latino Americanos, Universidade de Cambridge
         avatar_alt: Parsley Montana's photo
         content: >-
           Os capítulos sobre trauma e memória são escritos com grande empatia e
