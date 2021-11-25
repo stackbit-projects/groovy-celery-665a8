@@ -13,6 +13,7 @@ seo:
   extra: []
 layout: post
 image: /images/memoriasentrelacadas-pilha-livro.jpg
+thumb_image: /images/memoriasentrelacadas-pilha-livro.jpg
 ---
 ##
 
