@@ -10,19 +10,15 @@ sections:
     content: >
       Baseado na dissertação de mestrado da autora, mestre pela Universidade de
       Cambridge (Reino Unido), *Memórias entrelaçadas – do trauma ao
-      empoderamento* conta histórias de vida de dez mulheres, mães empregadas
-      domésticas e serventes escolares e de suas filhas, a primeira geração em
-      suas famílias a obter um diploma universitário no Brasil.
+      empoderamento* conta histórias de vida de mães empregadas domésticas e
+      serventes escolares e de suas filhas, a primeira geração em suas famílias
+      a obter um diploma universitário no Brasil.
 
 
-      O livro investiga o papel das mães na jornada de suas filhas rumo a
-      universidade e introduz o conceito de memórias entrelaçadas para mostrar
+      O livro investiga o papel das mães na jornada de suas filhas rumo à
+      universidade e introduz o conceito de *memórias entrelaçadas* para mostrar
       como o mecanismo de transmissão das memórias entre mães e filhas levou ao
       suporte mútuo entre essas mulheres, transformando trauma em empoderamento.
-    # actions:
-    #   - label: Leia um trecho do livro
-    #     url: /livro
-    #     style: primary
   - section_id: author
     type: section_author
     author_name: Anna Maria Del Fiorentino
@@ -52,14 +48,14 @@ sections:
     subtitle: O que os leitores estão dizendo sobre o livro
     reviews:
       - author: >-
-          Relatório da Comissão Examinadora Independente, Centro de Estudos da
-          América Latina, Universidade de Cambridge
+          Relatório da Comissão Examinadora Independente, Centro de Estudos
+          Latino Americanos, Universidade de Cambridge
         avatar_alt: Eric Widget's photo
         content: >-
-          Dissertação cativante e elegantemente escrita, que busca destacar o
+          Dissertação cativante e elegantemente escrita que busca destacar o
           papel da dinâmica familiar (em particular as relações entre mães e
           filhas) durante o recente aumento de jovens mulheres da classe
-          trabalhadora frequentando universidade no Brasil, ao invés de seguirem
+          trabalhadora frequentando universidade no Brasil, em vez de seguirem
           os passos de suas mães empregadas domésticas.
 
           O estudo é baseado em entrevistas originais e profundas com cinco
@@ -73,8 +69,8 @@ sections:
           condições de vida de suas mães, uma vez que elas atingem um certo grau
           de mobilidade social.
       - author: >-
-          Relatório da Comissão Examinadora Independente, Centro de Estudos da
-          América Latina, Universidade de Cambridge
+          Relatório da Comissão Examinadora Independente, Centro de Estudos
+          Latino Americanos, Universidade de Cambridge
         avatar_alt: Parsley Montana's photo
         content: >-
           Os capítulos sobre trauma e memória são escritos com grande empatia e
