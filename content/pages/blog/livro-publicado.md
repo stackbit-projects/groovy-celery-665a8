@@ -11,7 +11,7 @@ seo:
   extra: []
 layout: post
 ---
-## ![](/images/memoriasentrelacadas-pilha-livro.jpg)Lorem ipsum
+## Lorem ipsum
 
 Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
