@@ -11,9 +11,6 @@ seo:
   extra: []
 layout: post
 ---
-## Lorem ipsum
+##
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-*   Lorem ipsum
-*   dolor sit amet
+Livro publicado esta semana! Foto das cópias que chegaram na casa dos meus pais, no Brazil.
