@@ -1,5 +1,5 @@
 ---
-title: 'Livro '
+title: Livro Publicado
 subtitle: lorem-ipsum
 date: '2021-11-25'
 excerpt: lorem-ipsum
