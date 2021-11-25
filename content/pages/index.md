@@ -52,7 +52,7 @@ sections:
           Latino Americanos, Universidade de Cambridge
         avatar_alt: Eric Widget's photo
         content: >-
-          Dissertação cativante e elegantemente escrita, que busca destacar o
+          Dissertação cativante e elegantemente escrita que busca destacar o
           papel da dinâmica familiar (em particular as relações entre mães e
           filhas) durante o recente aumento de jovens mulheres da classe
           trabalhadora frequentando universidade no Brasil, ao invés de seguirem
