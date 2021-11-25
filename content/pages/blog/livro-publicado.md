@@ -10,6 +10,7 @@ seo:
   robots: []
   extra: []
 layout: post
+image: /images/memoriasentrelacadas-pilha-livro.jpg
 ---
 ##
 
