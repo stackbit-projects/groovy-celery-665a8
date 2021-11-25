@@ -55,8 +55,8 @@ sections:
           Dissertação cativante e elegantemente escrita que busca destacar o
           papel da dinâmica familiar (em particular as relações entre mães e
           filhas) durante o recente aumento de jovens mulheres da classe
-          trabalhadora frequentando universidade no Brasil,  invés de seguirem
-          os passos de suas mães empregadas domésticas.
+          trabalhadora frequentando universidade no Brasil, em vez invés de
+          seguirem os passos de suas mães empregadas domésticas.
 
           O estudo é baseado em entrevistas originais e profundas com cinco
           pares de mães e filhas, que a autora se utiliza para retratar as
