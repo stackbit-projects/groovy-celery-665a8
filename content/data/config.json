@@ -25,7 +25,7 @@
             },
             {
                 "label": "Comprar",
-                "url": "http://www.amazon.com.br",
+                "url": "/comprar",
                 "style": "primary"
             }
         ]
