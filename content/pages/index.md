@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/book-mock.png
+    image: images/capa.png
     image_alt: App preview
     title: Memórias Entrelaçadas
     subtitle: Do trauma ao empoderamento
@@ -19,10 +19,10 @@ sections:
       universidade e introduz o conceito de memórias entrelaçadas para mostrar
       como o mecanismo de transmissão das memórias entre mães e filhas levou ao
       suporte mútuo entre essas mulheres, transformando trauma em empoderamento.
-    actions:
-      - label: Leia um trecho do livro
-        url: /livro
-        style: primary
+    # actions:
+    #   - label: Leia um trecho do livro
+    #     url: /livro
+    #     style: primary
   - section_id: author
     type: section_author
     author_name: Anna Maria Del Fiorentino
