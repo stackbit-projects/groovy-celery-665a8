@@ -7,10 +7,18 @@ sections:
     image_alt: App preview
     title: Memórias Entrelaçadas
     subtitle: Do trauma ao empoderamento
-    content: |
-      Baseado na dissertação de mestrado da autora, mestra pela Universidade de Cambridge (Reino Unido), Memórias entrelaçadas – do trauma ao empoderamento conta histórias de vida de dez mulheres, mães empregadas domésticas e serventes escolares e de suas filhas, a primeira geração em suas famílias a obter um diploma universitário no Brasil.
-      
-      O livro investiga o papel das mães na jornada de suas filhas rumo a universidade e introduz o conceito de memórias entrelaçadas para mostrar como o mecanismo de transmissão das memórias entre mães e filhas levou ao suporte mútuo entre essas mulheres, transformando trauma em empoderamento.
+    content: >
+      Baseado na dissertação de mestrado da autora, mestre pela Universidade de
+      Cambridge (Reino Unido), *Memórias entrelaçadas – do trauma ao
+      empoderamento* conta histórias de vida de dez mulheres, mães empregadas
+      domésticas e serventes escolares e de suas filhas, a primeira geração em
+      suas famílias a obter um diploma universitário no Brasil.
+
+
+      O livro investiga o papel das mães na jornada de suas filhas rumo a
+      universidade e introduz o conceito de memórias entrelaçadas para mostrar
+      como o mecanismo de transmissão das memórias entre mães e filhas levou ao
+      suporte mútuo entre essas mulheres, transformando trauma em empoderamento.
     actions:
       - label: Leia um trecho do livro
         url: /livro
@@ -21,10 +29,22 @@ sections:
     avatar: /images/anna.jpg
     avatar_alt: Anna Maria Del Fiorentino
     title: A Autora
-    content: |
-      Anna Maria Del Fiorentino vive no Reino Unido desde 2008 e é mãe de duas crianças. Seus temas de interesse são voltados a maternidade e dignidade na infância e adolescência, educação, direitos humanos, feminismo inclusivo, justiça social, lutas da comunidade LGBTI+ e anti-racismo.
+    content: >
+      Anna Maria Del Fiorentino vive no Reino Unido desde 2008 e é mãe de duas
+      crianças. Seus temas de interesse são voltados a maternidade e dignidade
+      na infância e adolescência, educação, direitos humanos, feminismo
+      inclusivo, justiça social, lutas da comunidade LGBTI+ e anti-racismo.
 
-      Nascida em Brasília e criada em Campinas, se formou em Ciências Econômicas na Universidade Estadual de Campinas (UNICAMP), trabalhou no Centro de Pesquisa e Desenvolvimento da Ericsson em Indaiatuba e posteriormente no Banco do Brasil em Londres, onde também fez trabalhos voluntários de teatro e cinema no Old Vic Tunnels. Anna fez uma pausa em sua carreira para se dedicar a criação dos filhos e, recentemente, retomou sua trajetória acadêmica quando recebeu uma oferta de vaga no programa de mestrado no Centro de Estudos da América Latina da Universidade de Cambridge (Reino Unido).
+
+      Nascida em Brasília e criada em Campinas, se formou em Ciências Econômicas
+      na Universidade Estadual de Campinas (UNICAMP), trabalhou no Centro de
+      Pesquisa e Desenvolvimento da Ericsson em Indaiatuba e posteriormente no
+      Banco do Brasil em Londres, onde também fez trabalhos voluntários de
+      teatro e cinema no Old Vic Tunnels. Anna fez uma pausa em sua carreira
+      para se dedicar a criação dos filhos e, recentemente, retomou sua
+      trajetória acadêmica quando recebeu uma oferta de vaga no programa de
+      mestrado no Centro de Estudos da América Latina da Universidade de
+      Cambridge (Reino Unido).
   - section_id: reviews
     type: section_reviews
     background: white
@@ -41,18 +61,17 @@ sections:
           filhas) durante o recente aumento de jovens mulheres da classe
           trabalhadora frequentando universidade no Brasil, ao invés de seguirem
           os passos de suas mães empregadas domésticas.
-          
-          O estudo é baseado em
-          entrevistas originais e profundas com cinco pares de mães e filhas,
-          que a autora se utiliza para retratar as aspirações dessas mulheres e
-          a fragilidade dessas experiências na tentativa de mehorar suas
-          condições e de seus filhos.
-          
-          A autora destaca o papel da memória
-          intergeracional como estímulo para mobilidade social e introduz o
-          conceito de ‘memórias entrelaçadas’ para explicar as aspirações das
-          filhas como resposta para melhorar as condições de vida de suas mães,
-          uma vez que elas atingem um certo grau de mobilidade social.
+
+          O estudo é baseado em entrevistas originais e profundas com cinco
+          pares de mães e filhas, que a autora se utiliza para retratar as
+          aspirações dessas mulheres e a fragilidade dessas experiências na
+          tentativa de mehorar suas condições e de seus filhos.
+
+          A autora destaca o papel da memória intergeracional como estímulo para
+          mobilidade social e introduz o conceito de ‘memórias entrelaçadas’
+          para explicar as aspirações das filhas como resposta para melhorar as
+          condições de vida de suas mães, uma vez que elas atingem um certo grau
+          de mobilidade social.
       - author: >-
           Relatório da Comissão Examinadora Independente, Centro de Estudos da
           América Latina, Universidade de Cambridge
@@ -62,8 +81,8 @@ sections:
           sensibilidade, e constituem uma das maiores contribuições da
           dissertação.
       - author: >-
-          Juliana, filha de faxineira no Brasil e mestre pela Universidade de
-          Cambridge
+          Juliana Spadotto, filha de faxineira no Brasil e mestre em Educação
+          pela Universidade de Cambridge
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           Maravilhoso, eu adorei! Teve momentos que eu queria chorar porque pra
@@ -92,10 +111,12 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Memórias Entrelaçadas, Do trauma ao empoderamento
+      value: 'Memórias Entrelaçadas, Do trauma ao empoderamento'
       keyName: property
     - name: 'og:description'
-      value: Memórias Entrelaçadas, Do trauma ao empoderamento. Livro por Anna Maria Del Fiorentino
+      value: >-
+        Memórias Entrelaçadas, Do trauma ao empoderamento. Livro por Anna Maria
+        Del Fiorentino
       keyName: property
     - name: 'og:image'
       value: images/Capa-Proposta-01-b.jpg
@@ -104,9 +125,11 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Memórias Entrelaçadas, Do trauma ao empoderamento
+      value: 'Memórias Entrelaçadas, Do trauma ao empoderamento'
     - name: 'twitter:description'
-      value: Memórias Entrelaçadas, Do trauma ao empoderamento. Livro por Anna Maria Del Fiorentino
+      value: >-
+        Memórias Entrelaçadas, Do trauma ao empoderamento. Livro por Anna Maria
+        Del Fiorentino
     - name: 'twitter:image'
       value: images/Capa-Proposta-01-b.jpg
       relativeUrl: true

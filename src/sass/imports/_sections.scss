@@ -617,14 +617,15 @@
     background: $color-primary;
     background: -webkit-gradient(linear, left top, right top, from($color-primary), to($color-secondary));
     background: linear-gradient(to right,$color-primary, $color-secondary);
-    color: #fff;
+    // color: #fff;
+    color: #423C18;
 
     a {
       &:not(.button) {
-        color: #fff;
+        color: #423C18;
   
         &:hover {
-          color: #fff;
+          color: #423C18;
           opacity: 0.8;
         }
       }
@@ -643,7 +644,7 @@
     }
 
     .block-subtitle {
-      color: $gray-200;
+      color: #423C18;
     }
 
     blockquote,
@@ -652,9 +653,9 @@
     }
 
     .button {
-      background: #fff;
-      border-color: #fff;
-      color: $color-primary;
+      background: #423C18;
+      border-color: #423C18;
+      color: #fff;
   
       &.secondary {
         background: transparent;
