@@ -89,14 +89,6 @@ sections:
           mim é pessoal. Teve uma mãe que disse que perdeu os dentes muito
           cedo... isso aconteceu com a minha mãe. Pra mim, tocou num lugar
           diferente, estou bem emotiva.
-  - section_id: call-to-action
-    type: section_cta
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: /signup
-        style: primary
   - section_id: recent-posts
     type: section_posts
     background: gray
