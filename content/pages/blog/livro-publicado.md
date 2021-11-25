@@ -1,7 +1,9 @@
 ---
 title: 'Livro Publicado '
 date: '2021-11-25'
-excerpt: Livro Publicado
+excerpt: >-
+  Livro publicado esta semana! Foto das cópias que chegaram na casa dos meus
+  pais, no Brazil.
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 seo:
