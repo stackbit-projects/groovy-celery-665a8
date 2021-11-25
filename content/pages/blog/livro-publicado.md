@@ -1,7 +1,7 @@
 ---
 title: 'Livro Publicado '
 date: '2021-11-25'
-excerpt: lorem-ipsum
+excerpt: Livro Publicado
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 seo:
