@@ -48,8 +48,8 @@ sections:
     subtitle: O que os leitores estão dizendo sobre o livro
     reviews:
       - author: >-
-          Relatório da Comissão Examinadora Independente, Centro de Estudos da
-          América Latina, Universidade de Cambridge
+          Relatório da Comissão Examinadora Independente, Centro de Estudos
+          Latino Americanos, Universidade de Cambridge
         avatar_alt: Eric Widget's photo
         content: >-
           Dissertação cativante e elegantemente escrita, que busca destacar o
