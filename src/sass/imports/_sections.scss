@@ -83,6 +83,14 @@
   }
 }
 
+.hero-block {
+  .block-title,
+  .block-subtitle {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
+
 @media only screen and (min-width: 801px) {
   .hero-block,
   .text-block,

@@ -25,8 +25,8 @@ export default class SectionHero extends React.Component {
                             </div>
                         )}
                         <div className="cell block-content">
-                            {title && <h2 className="block-title underline">{title}</h2>}
-                            {subtitle && <h3 className="block-subtitle underline">{subtitle}</h3>}
+                            {title && <h1 className="block-title">{title}</h1>}
+                            {subtitle && <h2 className="block-subtitle underline">{subtitle}</h2>}
                             {content && content.split('\n').map(c=><div className="block-copy">{markdownify(c)}</div>)}
                             {actions && (
                                 <div className="block-buttons">
