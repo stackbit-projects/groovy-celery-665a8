@@ -6,7 +6,7 @@ sections:
     image: images/capa.png
     image_alt: App preview
     title: Memórias Entrelaçadas
-    subtitle: Do trauma ao empoderamento
+    subtitle: do trauma ao empoderamento
     content: >
       Baseado na dissertação de mestrado da autora, mestre pela Universidade de
       Cambridge (Reino Unido), *Memórias entrelaçadas – do trauma ao
@@ -94,20 +94,20 @@ sections:
     background: gray
     title: Novidades
 seo:
-  title: Memórias Entrelaçadas — Do trauma ao empoderamento
+  title: Memórias Entrelaçadas — do trauma ao empoderamento
   description: >-
-    Memórias Entrelaçadas: Do trauma ao empoderamento. Livro por Anna Maria Del
+    Memórias Entrelaçadas: do trauma ao empoderamento. Livro por Anna Maria Del
     Fiorentino
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: 'Memórias Entrelaçadas, Do trauma ao empoderamento'
+      value: 'Memórias Entrelaçadas, do trauma ao empoderamento'
       keyName: property
     - name: 'og:description'
       value: >-
-        Memórias Entrelaçadas, Do trauma ao empoderamento. Livro por Anna Maria
+        Memórias Entrelaçadas, do trauma ao empoderamento. Livro por Anna Maria
         Del Fiorentino
       keyName: property
     - name: 'og:image'
@@ -117,10 +117,10 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Memórias Entrelaçadas, Do trauma ao empoderamento'
+      value: 'Memórias Entrelaçadas, do trauma ao empoderamento'
     - name: 'twitter:description'
       value: >-
-        Memórias Entrelaçadas, Do trauma ao empoderamento. Livro por Anna Maria
+        Memórias Entrelaçadas, do trauma ao empoderamento. Livro por Anna Maria
         Del Fiorentino
     - name: 'twitter:image'
       value: images/Capa-Proposta-01-b.jpg
