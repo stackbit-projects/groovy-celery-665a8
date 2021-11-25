@@ -9,9 +9,13 @@ seo:
   extra: []
 layout: page
 ---
-## Lorem ipsum
+## Como comprar
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Para comprar o livro, mande um email para <a href="mailto:annadfiorentino@gmail.com">annadfiorentino@gmail.com</a>
 
-- Lorem ipsum
-- dolor sit amet
+Em breve disponível também na Livraria Martins Fontes
+
+<b>Livraria Martins Fontes Paulista</b><br/>
+ Av. Paulista, 509<br/>
+ São Paulo, SP<br/>
+ CEP 01311-910
