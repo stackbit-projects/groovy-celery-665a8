@@ -1,15 +1,13 @@
 ---
-title: lorem-ipsum
-subtitle: lorem-ipsum
+title: Como Comprar
 image_alt: lorem-ipsum
 seo:
-  title: ''
-  description: ''
+  title: 'Como Comprar - Memorias entrelaçadas'
+  description: 'Como Comprar o livro Memorias entrelaçadas, do trauma ao empoderamento por Anna Maria Del Fiorentino'
   robots: []
   extra: []
 layout: page
 ---
-## Como comprar
 
 Para comprar o livro, mande um email para <a href="mailto:annadfiorentino@gmail.com">annadfiorentino@gmail.com</a>
 
