@@ -6,23 +6,19 @@ sections:
     image: images/capa.png
     image_alt: App preview
     title: Memórias Entrelaçadas
-    subtitle: Do trauma ao empoderamento
+    subtitle: do trauma ao empoderamento
     content: >
       Baseado na dissertação de mestrado da autora, mestre pela Universidade de
       Cambridge (Reino Unido), *Memórias entrelaçadas – do trauma ao
-      empoderamento* conta histórias de vida de dez mulheres, mães empregadas
-      domésticas e serventes escolares e de suas filhas, a primeira geração em
-      suas famílias a obter um diploma universitário no Brasil.
+      empoderamento* conta histórias de vida de mães empregadas domésticas e
+      serventes escolares e de suas filhas, a primeira geração em suas famílias
+      a obter um diploma universitário no Brasil.
 
 
-      O livro investiga o papel das mães na jornada de suas filhas rumo a
-      universidade e introduz o conceito de memórias entrelaçadas para mostrar
+      O livro investiga o papel das mães na jornada de suas filhas rumo à
+      universidade e introduz o conceito de *memórias entrelaçadas* para mostrar
       como o mecanismo de transmissão das memórias entre mães e filhas levou ao
       suporte mútuo entre essas mulheres, transformando trauma em empoderamento.
-    # actions:
-    #   - label: Leia um trecho do livro
-    #     url: /livro
-    #     style: primary
   - section_id: author
     type: section_author
     author_name: Anna Maria Del Fiorentino
@@ -52,14 +48,14 @@ sections:
     subtitle: O que os leitores estão dizendo sobre o livro
     reviews:
       - author: >-
-          Relatório da Comissão Examinadora Independente, Centro de Estudos da
-          América Latina, Universidade de Cambridge
+          Relatório da Comissão Examinadora Independente, Centro de Estudos
+          Latino Americanos, Universidade de Cambridge
         avatar_alt: Eric Widget's photo
         content: >-
-          Dissertação cativante e elegantemente escrita, que busca destacar o
+          Dissertação cativante e elegantemente escrita que busca destacar o
           papel da dinâmica familiar (em particular as relações entre mães e
           filhas) durante o recente aumento de jovens mulheres da classe
-          trabalhadora frequentando universidade no Brasil, ao invés de seguirem
+          trabalhadora frequentando universidade no Brasil, em vez de seguirem
           os passos de suas mães empregadas domésticas.
 
           O estudo é baseado em entrevistas originais e profundas com cinco
@@ -73,8 +69,8 @@ sections:
           condições de vida de suas mães, uma vez que elas atingem um certo grau
           de mobilidade social.
       - author: >-
-          Relatório da Comissão Examinadora Independente, Centro de Estudos da
-          América Latina, Universidade de Cambridge
+          Relatório da Comissão Examinadora Independente, Centro de Estudos
+          Latino Americanos, Universidade de Cambridge
         avatar_alt: Parsley Montana's photo
         content: >-
           Os capítulos sobre trauma e memória são escritos com grande empatia e
@@ -89,25 +85,49 @@ sections:
           mim é pessoal. Teve uma mãe que disse que perdeu os dentes muito
           cedo... isso aconteceu com a minha mãe. Pra mim, tocou num lugar
           diferente, estou bem emotiva.
+      - author: Murray Edwards College Cambridge
+        avatar: /images/Screen Shot 2021-12-15 at 14.47.09.png
+        content: >-
+          Congratulations to our alumna Anna Maria Del Fiorentino (MEC 2019) on
+          the publication of her first book Memórias Entrelaçadas: do trauma ao
+          empoderamento (Intertwined Memories: Transforming Trauma into
+          Empowerment).
+
+
+          It is based on her MPhil dissertation which she wrote while at Murray
+          Edwards. An English version will be published in the UK in 2022. The
+          Portuguese version will soon be available in Rosemary Murray Library.
+
+
+          The book explores how intergenerational memory transmission of
+          traumatic experiences from mothers and daughters also has an important
+          role in providing a stimulus for social mobility. 
+
+
+          Find out more: https://lnkd.in/efmx4-Ti
+
+
+          #MeetMedwards #MedwardsAlumnae  
+          https://www.linkedin.com/posts/murray-edwards-college_meetmedwards-medwardsalumnae-activity-6876842547398926337-5e2z
   - section_id: recent-posts
     type: section_posts
     background: gray
     title: Novidades
 seo:
-  title: Memórias Entrelaçadas — Do trauma ao empoderamento
+  title: Memórias Entrelaçadas — do trauma ao empoderamento
   description: >-
-    Memórias Entrelaçadas: Do trauma ao empoderamento. Livro por Anna Maria Del
+    Memórias Entrelaçadas: do trauma ao empoderamento. Livro por Anna Maria Del
     Fiorentino
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: 'Memórias Entrelaçadas, Do trauma ao empoderamento'
+      value: 'Memórias Entrelaçadas, do trauma ao empoderamento'
       keyName: property
     - name: 'og:description'
       value: >-
-        Memórias Entrelaçadas, Do trauma ao empoderamento. Livro por Anna Maria
+        Memórias Entrelaçadas, do trauma ao empoderamento. Livro por Anna Maria
         Del Fiorentino
       keyName: property
     - name: 'og:image'
@@ -117,10 +137,10 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Memórias Entrelaçadas, Do trauma ao empoderamento'
+      value: 'Memórias Entrelaçadas, do trauma ao empoderamento'
     - name: 'twitter:description'
       value: >-
-        Memórias Entrelaçadas, Do trauma ao empoderamento. Livro por Anna Maria
+        Memórias Entrelaçadas, do trauma ao empoderamento. Livro por Anna Maria
         Del Fiorentino
     - name: 'twitter:image'
       value: images/Capa-Proposta-01-b.jpg
