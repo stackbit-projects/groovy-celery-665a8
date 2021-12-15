@@ -107,8 +107,8 @@ sections:
           Find out more: https://lnkd.in/efmx4-Ti
 
 
-          #MeetMedwards
-          #MedwardsAlumnaehttps://www.linkedin.com/posts/murray-edwards-college_meetmedwards-medwardsalumnae-activity-6876842547398926337-5e2z
+          #MeetMedwards #MedwardsAlumnae  
+          https://www.linkedin.com/posts/murray-edwards-college_meetmedwards-medwardsalumnae-activity-6876842547398926337-5e2z
   - section_id: recent-posts
     type: section_posts
     background: gray
