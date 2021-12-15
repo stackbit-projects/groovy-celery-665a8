@@ -85,7 +85,7 @@ sections:
           mim é pessoal. Teve uma mãe que disse que perdeu os dentes muito
           cedo... isso aconteceu com a minha mãe. Pra mim, tocou num lugar
           diferente, estou bem emotiva.
-      - author: lorem-ipsum
+      - author: 'Murray Edwards '
         avatar_alt: lorem-ipsum
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
