@@ -88,7 +88,27 @@ sections:
       - author: Murray Edwards College Cambridge
         avatar: /images/Screen Shot 2021-12-15 at 14.47.09.png
         content: >-
-          https://www.linkedin.com/posts/murray-edwards-college_meetmedwards-medwardsalumnae-activity-6876842547398926337-5e2z
+          Congratulations to our alumna Anna Maria Del Fiorentino (MEC 2019) on
+          the publication of her first book Memórias Entrelaçadas: do trauma ao
+          empoderamento (Intertwined Memories: Transforming Trauma into
+          Empowerment).
+
+
+          It is based on her MPhil dissertation which she wrote while at Murray
+          Edwards. An English version will be published in the UK in 2022. The
+          Portuguese version will soon be available in Rosemary Murray Library.
+
+
+          The book explores how intergenerational memory transmission of
+          traumatic experiences from mothers and daughters also has an important
+          role in providing a stimulus for social mobility. 
+
+
+          Find out more: https://lnkd.in/efmx4-Ti
+
+
+          #MeetMedwards
+          #MedwardsAlumnaehttps://www.linkedin.com/posts/murray-edwards-college_meetmedwards-medwardsalumnae-activity-6876842547398926337-5e2z
   - section_id: recent-posts
     type: section_posts
     background: gray
