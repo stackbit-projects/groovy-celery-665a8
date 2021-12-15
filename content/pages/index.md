@@ -87,9 +87,6 @@ sections:
           diferente, estou bem emotiva.
       - author: Murray Edwards College Cambridge
         avatar_alt: lorem-ipsum
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         avatar: /images/Screen Shot 2021-12-15 at 14.47.09.png
   - section_id: recent-posts
     type: section_posts
