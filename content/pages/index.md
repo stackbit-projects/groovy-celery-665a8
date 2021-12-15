@@ -86,7 +86,6 @@ sections:
           cedo... isso aconteceu com a minha mãe. Pra mim, tocou num lugar
           diferente, estou bem emotiva.
       - author: Murray Edwards College Cambridge
-        avatar_alt: lorem-ipsum
         avatar: /images/Screen Shot 2021-12-15 at 14.47.09.png
         content: >-
           https://www.linkedin.com/posts/murray-edwards-college_meetmedwards-medwardsalumnae-activity-6876842547398926337-5e2z
