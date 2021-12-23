@@ -93,7 +93,6 @@ sections:
           empoderamento (Intertwined Memories: Transforming Trauma into
           Empowerment).
 
-
           It is based on her MPhil dissertation which she wrote while at Murray
           Edwards. An English version will be published in the UK in 2022. The
           Portuguese version will soon be available in Rosemary Murray Library.
