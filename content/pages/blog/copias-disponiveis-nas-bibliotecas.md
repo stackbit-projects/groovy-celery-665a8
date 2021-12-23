@@ -1,5 +1,5 @@
 ---
-title: Livro Disponi
+title: Livro Disponível nas Bibliotecas
 subtitle: lorem-ipsum
 date: '2021-12-23'
 excerpt: lorem-ipsum
