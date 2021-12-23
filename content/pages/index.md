@@ -86,7 +86,6 @@ sections:
           cedo... isso aconteceu com a minha mãe. Pra mim, tocou num lugar
           diferente, estou bem emotiva.
       - author: Murray Edwards College Cambridge
-        avatar: /images/Screen Shot 2021-12-15 at 14.47.09.png
         content: >-
           Congratulations to our alumna Anna Maria Del Fiorentino (MEC 2019) on
           the publication of her first book Memórias Entrelaçadas: do trauma ao
