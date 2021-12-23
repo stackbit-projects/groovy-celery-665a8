@@ -11,6 +11,7 @@ image: /images/WhatsApp Image 2021-12-15 at 15.44.21 (1).jpeg
 excerpt: >-
   Feliz de poder retribuir aos lugares por onde passei. Meu livro agora está
   disponível para consulta
+thumb_image: /images/WhatsApp Image 2021-12-15 at 15.44.21 (1)-af34fffd.jpeg
 ---
 Feliz de poder retribuir aos lugares por onde passei. Meu livro agora está disponível para consulta nas bibliotecas do IE, IFCH e BC da UNICAMP e nas bibliotecas do Departamento de Estudos Latino Americanos e Murray Edwards college da Universidade de Cambridge. 
 
