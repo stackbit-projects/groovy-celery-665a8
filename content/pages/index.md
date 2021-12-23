@@ -86,13 +86,11 @@ sections:
           cedo... isso aconteceu com a minha mãe. Pra mim, tocou num lugar
           diferente, estou bem emotiva.
       - author: Murray Edwards College Cambridge
-        avatar: /images/Screen Shot 2021-12-15 at 14.47.09.png
         content: >-
           Congratulations to our alumna Anna Maria Del Fiorentino (MEC 2019) on
           the publication of her first book Memórias Entrelaçadas: do trauma ao
           empoderamento (Intertwined Memories: Transforming Trauma into
           Empowerment).
-
 
           It is based on her MPhil dissertation which she wrote while at Murray
           Edwards. An English version will be published in the UK in 2022. The

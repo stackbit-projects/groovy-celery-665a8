@@ -395,8 +395,11 @@
 }
 
 .review-text {
-  padding-top: 2.25em;
   position: relative;
+
+  &:first-of-type {
+    padding-top: 2.25em;
+  }
 
   &:first-of-type:before {
     color: $color-primary;
