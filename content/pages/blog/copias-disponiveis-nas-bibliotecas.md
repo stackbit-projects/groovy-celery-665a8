@@ -7,7 +7,6 @@ seo:
   robots: []
   extra: []
 layout: post
-image: /images/WhatsApp Image 2021-12-15 at 15.44.21 (1).jpeg
 excerpt: >-
   Feliz de poder retribuir aos lugares por onde passei. Meu livro agora está
   disponível para consulta
