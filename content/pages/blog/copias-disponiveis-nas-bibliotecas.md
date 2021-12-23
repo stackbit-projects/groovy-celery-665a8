@@ -12,9 +12,9 @@ seo:
 layout: post
 image: /images/WhatsApp Image 2021-12-15 at 15.44.21 (1).jpeg
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Feliz de poder retribuir aos lugares por onde passei. Meu livro agora está disponível para consulta nas bibliotecas do IE, IFCH e BC da UNICAMP e nas bibliotecas do Departamento de Estudos Latino Americanos e Murray Edwards college da Universidade de Cambridge. 
+
+(Foto: eu e Julie Coimbra, bibliotecária do Departamento de Estudos Latino Americanos da Universidade de Cambridge)
 
 ![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
 
