@@ -1,17 +1,6 @@
 ---
 title: Livro Disponível nas Bibliotecas
 date: '2021-12-23'
-thumb_image_alt: >-
-  Feliz de poder retribuir aos lugares por onde passei. Meu livro agora está
-  disponível para consulta nas bibliotecas do IE, IFCH e BC da UNICAMP e nas
-  bibliotecas do departamento de estudos latino americanos e Murray Edwards
-  college da Universidade de Cambridge.   Happy to give back to the places I’ve
-  been to. You can borrow a copy of my book at the IE, IFCH and BC libraries at
-  UNICAMP and also at the library of the Department of Latin American Studies
-  and Murray Edwards college at the University of Cambridge.   (Foto/Photo: eu e
-  Julie, bibliotecária do departamento de estudos latino americanos da
-  universidade de Cambridge/ me and Julie, librarian of the Department of Latin
-  American Studies of the University of Cambridge)
 seo:
   title: ''
   description: ''
