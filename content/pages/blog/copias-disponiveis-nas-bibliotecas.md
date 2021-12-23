@@ -1,7 +1,6 @@
 ---
 title: Livro Disponível nas Bibliotecas
 date: '2021-12-23'
-excerpt: lorem-ipsum
 image_alt: lorem-ipsum
 thumb_image_alt: >-
   Feliz de poder retribuir aos lugares por onde passei. Meu livro agora está
