@@ -2,7 +2,7 @@
 title: Clarec 2022
 subtitle: Whereabouts Series of Seminars
 date: '2022-01-24'
-excerpt: Whereabout Semina
+excerpt: Whereabout Seminar sERIES
 thumb_image_alt: lorem-ipsum
 seo:
   title: ''
