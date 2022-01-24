@@ -1,6 +1,6 @@
 ---
 title: Clarec 2022
-subtitle: lorem-ipsum
+subtitle: Whereabouts Series of Seminars
 date: '2022-01-24'
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
