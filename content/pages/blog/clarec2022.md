@@ -11,6 +11,7 @@ seo:
   extra: []
 layout: post
 image: /images/clarec march 22 whatsapp-image-2022-01-24-at-15.49.19.jpg
+thumb_image: /images/clarec march 22 whatsapp-image-2022-01-24-at-15.49.19.jpg
 ---
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
         
