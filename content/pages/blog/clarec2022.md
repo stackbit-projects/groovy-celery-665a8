@@ -4,8 +4,8 @@ subtitle: Whereabouts Series of Seminars
 date: '2022-01-24'
 excerpt: >-
   Muito feliz por ter sido convidada para apresentar meu trabalho de pesquisa na
-  série de seminários Whereabouts organizado pelo coletivo Clarec (Cambridge
-  Latin American Research in Education Collective) 
+  série de seminários Whereabouts organizado pelo Clarec (Cambridge Latin
+  American Research in Education Collective) 
 thumb_image_alt: lorem-ipsum
 seo:
   title: ''
