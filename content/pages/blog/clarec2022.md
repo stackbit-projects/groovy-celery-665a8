@@ -2,7 +2,11 @@
 title: Clarec 2022
 subtitle: Whereabouts Series of Seminars
 date: '2022-01-24'
-excerpt: Whereabout Seminar Series
+excerpt: >-
+  Muito feliz por ter sido convidada para apresentar meu trabalho de pesquisa
+  que resultou no livro Memórias Entrelaçadas: do trauma ao empoderamento na
+  série de seminários Whereabouts organizado pelo coletivo Clarec (Cambridge
+  Latin American Research in Education Collective) 
 thumb_image_alt: lorem-ipsum
 seo:
   title: ''
