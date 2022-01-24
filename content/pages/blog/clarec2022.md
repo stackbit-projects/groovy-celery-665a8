@@ -1,5 +1,5 @@
 ---
-title: SeminaClarec 2022
+title: Convite para o Clarec 2022
 subtitle: Whereabouts Series of Seminars
 date: '2022-01-24'
 excerpt: >-
