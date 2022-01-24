@@ -1,5 +1,5 @@
 ---
-title: 'Clarec '
+title: Clarec 2022
 subtitle: lorem-ipsum
 date: '2022-01-24'
 excerpt: lorem-ipsum
