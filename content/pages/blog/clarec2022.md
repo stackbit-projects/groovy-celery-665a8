@@ -1,6 +1,6 @@
 ---
-title: Clarec 2022
-subtitle: Whereabouts Series of Seminars
+title: Convite para o Clarec 2022
+subtitle: 'Whereabouts Seminar Series '
 date: '2022-01-24'
 excerpt: >-
   Muito feliz por ter sido convidada para apresentar meu trabalho de pesquisa na
