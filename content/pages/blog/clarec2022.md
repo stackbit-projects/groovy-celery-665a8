@@ -3,10 +3,9 @@ title: Clarec 2022
 subtitle: Whereabouts Series of Seminars
 date: '2022-01-24'
 excerpt: >-
-  Muito feliz por ter sido convidada para apresentar meu trabalho de pesquisa
-  mórias Entrelaçadas: do trauma ao empoderamento na série de seminários
-  Whereabouts organizado pelo coletivo Clarec (Cambridge Latin American Research
-  in Education Collective) 
+  Muito feliz por ter sido convidada para apresentar meu trabalho de pesquisa o
+  trauma ao empoderamento na série de seminários Whereabouts organizado pelo
+  coletivo Clarec (Cambridge Latin American Research in Education Collective) 
 thumb_image_alt: lorem-ipsum
 seo:
   title: ''
