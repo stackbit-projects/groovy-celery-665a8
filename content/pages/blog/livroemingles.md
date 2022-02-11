@@ -13,9 +13,7 @@ seo:
 layout: post
 image: /images/Cover-book-english-slice1.png
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+*Memórias Entrelaçadas* terá uma edição especial em inglês com o título *Mothers and Daughters: Intertwined memories, healing trauma and the rupture with paid domestic work in Brazil*, incluindo uma edição digital. Em breve mais novidades.
 
 ![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
 
