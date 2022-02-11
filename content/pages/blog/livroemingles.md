@@ -11,6 +11,7 @@ seo:
   robots: []
   extra: []
 layout: post
+image: /images/Cover-book-english-slice1.png
 ---
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
 
