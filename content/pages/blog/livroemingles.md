@@ -1,5 +1,5 @@
 ---
-title: Ediça
+title: Edição em Ingle
 subtitle: lorem-ipsum
 date: '2022-02-11'
 excerpt: lorem-ipsum
