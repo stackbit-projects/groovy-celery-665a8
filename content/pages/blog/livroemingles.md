@@ -1,6 +1,6 @@
 ---
 title: Edição em Inglês
-subtitle: Memórias Entrelaçadas terá uma ediça
+subtitle: Memórias Entrelaçadas terá uma edição em ingle
 date: '2022-02-11'
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
