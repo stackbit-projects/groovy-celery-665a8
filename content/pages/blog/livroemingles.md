@@ -1,5 +1,5 @@
 ---
-title: Memo
+title: Edic
 subtitle: lorem-ipsum
 date: '2022-02-11'
 excerpt: lorem-ipsum
