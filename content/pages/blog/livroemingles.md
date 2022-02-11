@@ -3,7 +3,6 @@ title: Edição em Inglês
 subtitle: Memórias Entrelaçadas terá uma edição em inglês!
 date: '2022-02-11'
 excerpt: Memórias Entrelaçadas terá uma edição em inglês!
-thumb_image_alt: lorem-ipsum
 seo:
   title: ''
   description: ''
