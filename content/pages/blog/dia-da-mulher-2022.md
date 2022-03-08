@@ -17,4 +17,4 @@ layout: post
 image: /images/blog/dia-da-mulher-2022/memorias-entrelacadas-dia-da-mulher-apresentacao.jpg
 thumb_image: /images/blog/dia-da-mulher-2022/memorias-entrelacadas-dia-da-mulher-apresentacao.jpg
 ---
-*Memórias Entrelaçadas* terá uma edição especial em inglês com o título *Mothers and Daughters: Intertwined memories, healing trauma and the rupture with paid domestic work in Brazil*, incluindo uma edição digital. Em breve mais novidades, por enquanto divido por aqui a capa do livro.
+Muito feliz por ter tido a oportunidade de apresentar meu trabalho de pesquisa a convite do Clarec (Cambridge Latin American Research in Education Collective) at the Faculty of Education. A palestra celebra o dia internacional da mulher e eu falo sobre a primeira geração de mulheres universitárias e suas mães empregadas domésticas e serventes do Brasil e como o acesso a educação superior levou a mobilidade social e a superação de traumas de mães e filhas através do apoio mútuo.
