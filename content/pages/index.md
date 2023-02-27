@@ -20,7 +20,7 @@ sections:
       como o mecanismo de transmissão das memórias entre mães e filhas levou ao
       suporte mútuo entre essas mulheres, transformando trauma em empoderamento.
 
-      Foobar
+      Foobar2
   - section_id: author
     type: section_author
     author_name: Anna Maria Del Fiorentino
